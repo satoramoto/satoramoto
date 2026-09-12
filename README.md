@@ -1,8 +1,8 @@
-# Satoru Moto
+# satoramoto
 
 Useful tools. Creative freedom. Shared progress.
 
-Satoru Moto is an emerging home for open tools that help people create, learn, and stay in the flow. We want people to own what they make and be able to use, adapt, and publish their work without depending on a single service.
+satoramoto is an emerging home for open tools that help people create, learn, and stay in the flow. We want people to own what they make and be able to use, adapt, and publish their work without depending on a single service.
 
 Our direction is to make tools freely available, explain how they work, and invite people to help improve them. Optional support can fund continued development; convenience and services can be paid for without making access to the underlying tools conditional on payment.
 
