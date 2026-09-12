@@ -1,19 +1,26 @@
 # Satoru Moto
 
-The shared hub for cross-project vision, planning, and community development in the satoramoto organization.
+Useful tools. Creative freedom. Shared progress.
 
-## Start here
+Satoru Moto is an emerging home for open tools that help people create, learn, and stay in the flow. We want people to own what they make and be able to use, adapt, and publish their work without depending on a single service.
 
-- [Vision and project notes](docs/vision-and-project-notes.md) — the September 12, 2026 discussion covering the creative website framework, guided builder, Vibe’s Guide blog, branding, voluntary funding, and contributor governance.
+Our direction is to make tools freely available, explain how they work, and invite people to help improve them. Optional support can fund continued development; convenience and services can be paid for without making access to the underlying tools conditional on payment.
 
-These are working notes. Proposals are not adopted policies or promises. This hub is initially private while the plans are refined.
+## What we’re exploring
 
-## What belongs here
+- A React-based framework for precisely composed websites, with proportional layouts and a visual editing overlay.
+- A guided, conversational experience that helps people turn artistic direction into an editable, publishable website.
+- Practical articles and demonstrations through [Vibe’s Guide](https://github.com/satoramoto/vibes-guide).
+- A transparent, community-supported model for funding contributors and supporting digital rights.
 
-- Shared principles and organizational direction
-- Ideas and roadmaps spanning multiple projects
-- Community and contributor processes
-- Funding and governance proposals
-- Links to individual projects and their own documentation
+This repository is the shared planning hub. The [issues](https://github.com/satoramoto/satoru-moto/issues) hold proposals and next steps across projects. Ideas are at different stages; the framework and guided builder are not released products yet.
 
-Implementation details remain with their individual projects.
+## Participate
+
+Share a use case, discuss an idea, improve the documentation, or help shape a project. We value useful work and clear explanations, and want contributors to have a meaningful role as the community develops.
+
+Founded by Ryan Gavin. The work and community are the focus.
+
+## Status
+
+Early planning. Funding allocations, contributor governance, and licensing for future projects are still proposals. No foundation status, charitable affiliation, or contributor payment program is claimed. Existing projects retain their own licenses.
